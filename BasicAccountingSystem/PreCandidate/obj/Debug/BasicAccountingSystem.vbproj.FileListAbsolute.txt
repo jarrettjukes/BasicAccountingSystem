@@ -1,0 +1,219 @@
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Data\Cake.mdf
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Data\Cake_log.ldf
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.AboutBox.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.InventoryForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.MainForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchaseInvoicesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesInvoicesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchasesReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipeReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.Resources.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbproj.GenerateResource.Cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\RdlCompile.cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\RdlCompile.compiled
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Data\Cake.mdf
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Data\Cake_log.ldf
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.AboutBox.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.InventoryForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.MainForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchaseInvoicesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesInvoicesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchasesReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipeReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.Resources.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbproj.GenerateResource.Cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\RdlCompile.cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository (beta)\PreCandidate\PreCandidate\PreCandidate\obj\Debug\RdlCompile.compiled
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Data\Cake.mdf
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Data\Cake_log.ldf
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.pdb
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.xml
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Microsoft.SqlServer.Types.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbprojResolveAssemblyReference.cache
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.AboutBox.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.InventoryForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.MainForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchaseInvoicesForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipesForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesInvoicesForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsReportForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsReportForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchasesReportForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipeReportForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesReportForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorsForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorReportForm.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.Resources.resources
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbproj.GenerateResource.Cache
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\RdlCompile.cache
+J:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\RdlCompile.compiled
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Data\Cake.mdf
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Data\Cake_log.ldf
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.pdb
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.xml
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\Microsoft.SqlServer.Types.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbprojResolveAssemblyReference.cache
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.AboutBox.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.InventoryForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.MainForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchaseInvoicesForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipesForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesInvoicesForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsReportForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsReportForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchasesReportForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipeReportForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesReportForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorsForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorReportForm.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.Resources.resources
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.vbproj.GenerateResource.Cache
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\RdlCompile.cache
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\RdlCompile.compiled
+I:\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.QuotesForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+C:\Users\Jarrett\Desktop\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\Independent Project\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\Independent Project\Builds\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+C:\Users\Jarrett\Desktop\Independent Project\Builds\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\Independent Project\Builds\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\Independent Project\Builds\PreCandidate Repository (beta)\PreCandidate(beta)\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\Data\Cake.mdf
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\Data\Cake_log.ldf
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.AboutBox.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.InventoryForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.QuotesForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.MainForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.PurchaseInvoicesForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.RecipesForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.SalesInvoicesForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsReportForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsReportForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.PurchasesReportForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.RecipeReportForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.SalesReportForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.VendorsForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.VendorReportForm.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.Resources.resources
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.vbproj.GenerateResource.Cache
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\RdlCompile.cache
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\RdlCompile.compiled
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\BasicAccountingSystem.exe.manifest
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\bin\Debug\BasicAccountingSystem.application
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.TrustInfo.xml
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.exe.manifest
+C:\Users\Jarrett\Desktop\Independent Project\Builds\BasicAccountingSystem\BasicAccountingSystem\PreCandidate\obj\Debug\BasicAccountingSystem.application

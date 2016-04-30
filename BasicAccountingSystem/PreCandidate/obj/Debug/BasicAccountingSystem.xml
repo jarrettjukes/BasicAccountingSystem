@@ -1,0 +1,251 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+BasicAccountingSystem
+</name>
+</assembly>
+<members>
+<member name="T:BasicAccountingSystem.CakeDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.PurchaseInvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.QuotesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.SalesInvoicesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.RecipesDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.InventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.JoinRecipeAndInventoryDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.VendorsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.ClientsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.PurchaseInvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.QuotesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.SalesInvoicesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.RecipesRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.InventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.JoinRecipeAndInventoryRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.VendorsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.ClientsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.PurchaseInvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.QuotesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.SalesInvoicesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.RecipesRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.InventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.JoinRecipeAndInventoryRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.VendorsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSet.ClientsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.PurchaseInvoicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.QuotesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.SalesInvoicesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.RecipesTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.InventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.JoinRecipeAndInventoryTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.VendorsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.ClientsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(BasicAccountingSystem.CakeDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(BasicAccountingSystem.CakeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(BasicAccountingSystem.CakeDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.UpdateAll(BasicAccountingSystem.CakeDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.CakeDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:BasicAccountingSystem.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:BasicAccountingSystem.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:BasicAccountingSystem.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

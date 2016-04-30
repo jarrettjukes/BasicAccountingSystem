@@ -1,0 +1,56 @@
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\bin\Debug\PreCandidate.exe.config
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.MainForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.Resources.resources
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.vbproj.GenerateResource.Cache
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.xml
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\bin\Debug\PreCandidate.exe
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\bin\Debug\PreCandidate.pdb
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\bin\Debug\PreCandidate.xml
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.exe
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.pdb
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\bin\Debug\Data\Cake.mdf
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\bin\Debug\Data\Cake_log.ldf
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.InventoryForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.ProductsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.vbprojResolveAssemblyReference.cache
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.ClientsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.RecipesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate\PreCandidate\obj\Debug\PreCandidate.VendorsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Data\Cake.mdf
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Data\Cake_log.ldf
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe.config
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.pdb
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.AboutBox.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ClientsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.InventoryForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.MainForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchaseInvoicesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesInvoicesForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.ProductsReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.PurchasesReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.RecipeReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.SalesReportForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.VendorsForm.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.Resources.resources
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\PreCandidate.vbproj.GenerateResource.Cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\RdlCompile.cache
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\RdlCompile.compiled
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.exe
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.xml
+C:\Users\Jarrett\Desktop\PreCandidate Repository\PreCandidate\PreCandidate\PreCandidate\obj\Debug\BasicAccountingSystem.pdb
